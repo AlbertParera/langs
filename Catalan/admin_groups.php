@@ -1,5 +1,5 @@
 <?php
-//REVISAT
+
 // Language definitions used in admin-groups.php
 $lang_admin_groups = array(
 
