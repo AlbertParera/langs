@@ -1,5 +1,5 @@
 <?php
-//REVISADO
+
 // Language definitions used in admin_censoring.php
 $lang_admin_censoring = array(
 
