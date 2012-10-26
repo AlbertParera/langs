@@ -1,5 +1,5 @@
 <?php
-//REVISAT
+
 // Language definitions used in admin-forums.php
 $lang_admin_forums = array(
 
