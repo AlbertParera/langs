@@ -1,5 +1,5 @@
 <?php
-//REVISADO
+
 // Language definitions used in admin_common
 $lang_admin_common = array(
 
